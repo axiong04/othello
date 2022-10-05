@@ -1,2 +1,2 @@
 # othello
-thanks dkhale
+thanks dkahle
